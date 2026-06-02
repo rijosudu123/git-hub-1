@@ -1,9 +1,29 @@
 
 # git-hub-1
+None selected
+
+Skip to content
+Using Gmail with screen readers
+1 of 859
+(no subject)
+Inbox
+
+Ancy Michael
+13:18 (0 minutes ago)
+to me
+
+Here are your notes in a clean format with a short description of each stage in VS Code and GitHub:
+
+Git and GitHub Notes (VS Code)
+Step 1: Add Git Account to VS Code
 Install Git on your computer.
+
 Open VS Code.
+
 Open Terminal → Select Git Bash.
+
 Configure your GitHub account:
+
 git config --global user.name "username"
 git config --global user.email "emailid"
 These commands connect your Git commits with your GitHub account.
@@ -69,8 +89,28 @@ Creates a personal copy of another user's GitHub repository.
 A request to merge your changes into another branch or repository after review.
 
 Git Workflow Stages
-Working Directory ↓ git add ↓ Staging Area ↓ git commit ↓ Local Repository ↓ git push ↓ GitHub Remote Repository
+Working Directory
+↓
+git add
+↓
+Staging Area
+↓
+git commit
+↓
+Local Repository
+↓
+git push
+↓
+GitHub Remote Repository
 
 Description:
 
-• Working Directory – Files you edit in VS Code. • Staging Area – Files selected for the next commit. • Local Repository – Commits stored on your computer. • Remote Repository (GitHub) – Online copy of your project. • Push – Sends local commits to GitHub. • Pull – Downloads updates from GitHub.
+• Working Directory – Files you edit in VS Code.
+• Staging Area – Files selected for the next commit.
+• Local Repository – Commits stored on your computer.
+• Remote Repository (GitHub) – Online copy of your project.
+• Push – Sends local commits to GitHub.
+• Pull – Downloads updates from GitHub.
+
+These notes are suitable for quick revision before a Git/GitHub lab or interview.
+
